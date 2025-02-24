@@ -1,4 +1,4 @@
-### Materials for the speech: Refactor, Rewrite, Re-engineer: Evolving a Codebase
+### Materials for the talk: Refactor, Rewrite, Re-engineer: Evolving a Codebase
 
 - [Keynote](https://github.com/ACOSW/Refactor-Rewrite-Re-engineer-Evolving-a-codebase-/blob/main/Refactoring%20keynote.pdf)
 - [Refactoring, Improving the Design of Existing Code, Martin Fowler](https://martinfowler.com/books/refactoring.html)
